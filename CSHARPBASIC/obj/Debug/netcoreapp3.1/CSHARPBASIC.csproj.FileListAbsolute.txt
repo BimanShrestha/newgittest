@@ -1,0 +1,13 @@
+C:\Users\HP\Documents\GitHub\newgittest\CSHARPBASIC\bin\Debug\netcoreapp3.1\CSHARPBASIC.exe
+C:\Users\HP\Documents\GitHub\newgittest\CSHARPBASIC\bin\Debug\netcoreapp3.1\CSHARPBASIC.deps.json
+C:\Users\HP\Documents\GitHub\newgittest\CSHARPBASIC\bin\Debug\netcoreapp3.1\CSHARPBASIC.runtimeconfig.json
+C:\Users\HP\Documents\GitHub\newgittest\CSHARPBASIC\bin\Debug\netcoreapp3.1\CSHARPBASIC.runtimeconfig.dev.json
+C:\Users\HP\Documents\GitHub\newgittest\CSHARPBASIC\bin\Debug\netcoreapp3.1\CSHARPBASIC.dll
+C:\Users\HP\Documents\GitHub\newgittest\CSHARPBASIC\bin\Debug\netcoreapp3.1\CSHARPBASIC.pdb
+C:\Users\HP\Documents\GitHub\newgittest\CSHARPBASIC\obj\Debug\netcoreapp3.1\CSHARPBASIC.csprojAssemblyReference.cache
+C:\Users\HP\Documents\GitHub\newgittest\CSHARPBASIC\obj\Debug\netcoreapp3.1\CSHARPBASIC.AssemblyInfoInputs.cache
+C:\Users\HP\Documents\GitHub\newgittest\CSHARPBASIC\obj\Debug\netcoreapp3.1\CSHARPBASIC.AssemblyInfo.cs
+C:\Users\HP\Documents\GitHub\newgittest\CSHARPBASIC\obj\Debug\netcoreapp3.1\CSHARPBASIC.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\GitHub\newgittest\CSHARPBASIC\obj\Debug\netcoreapp3.1\CSHARPBASIC.dll
+C:\Users\HP\Documents\GitHub\newgittest\CSHARPBASIC\obj\Debug\netcoreapp3.1\CSHARPBASIC.pdb
+C:\Users\HP\Documents\GitHub\newgittest\CSHARPBASIC\obj\Debug\netcoreapp3.1\CSHARPBASIC.genruntimeconfig.cache
